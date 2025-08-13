@@ -4,7 +4,7 @@ Using Microsoft Access to develop a COVID-19 patient tracking database in 2022.
 <b>ERD:</b> <br>
 <img width="1156" height="530" alt="image" src="https://github.com/user-attachments/assets/0caefaaa-c0d0-4a7f-955c-fe9ccd722f66" />
 <br>
-<b>SQL:</b? <br>  
+<b>SQL:</b> <br>  
 <img width="727" height="610" alt="image" src="https://github.com/user-attachments/assets/3152852f-941b-432c-86ed-e02a162c3eda" />
 <img width="628" height="558" alt="image" src="https://github.com/user-attachments/assets/d8068c3b-9e7b-476f-b8a3-6f285abf7e63" />
 <br>
