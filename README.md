@@ -1,6 +1,8 @@
 # patient_tracking_database
-Using Microsoft Access to develop a COVID-19 patient tracking database in 2022.
-
+Using Microsoft Access to develop a COVID-19 patient tracking database.
+<br><br>
+Project Year: 2022
+<br>
 <h2>ERD:</h2>
 <img width="1156" height="530" alt="image" src="https://github.com/user-attachments/assets/0caefaaa-c0d0-4a7f-955c-fe9ccd722f66" />
 <br>
