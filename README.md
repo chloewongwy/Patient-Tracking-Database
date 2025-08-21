@@ -1,4 +1,4 @@
-# patient_tracking_database
+# Patient-Tracking-Database
 Using Microsoft Access to develop a COVID-19 patient tracking database.
 
 ## 📅 Project Info  
